@@ -123,7 +123,7 @@ i{margin-left:4rem}
 @media only screen and (max-width:750px){
     body{margin:5px;}
     h1{
-    font-size:2rem;
+    font-size:4rem;
     margin:2rem;
     }
     .project-gallery{grid-template-columns: repeat(1, 1fr);}
@@ -134,11 +134,8 @@ i{margin-left:4rem}
     height: 150px; 
     }
     #project{
-    background-color: rgba(255, 255, 255, 0.911);
-    color: black;
-    align-items: center;
     margin:1.1rem;
-    width:100%;
+    width:140%;
     }       
     #project p, h3{ margin:10px; font-size: 13px;}
     #contact-me{margin: 10px;}
